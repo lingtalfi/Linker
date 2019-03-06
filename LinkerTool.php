@@ -1,11 +1,11 @@
 <?php
 
-namespace Linker;
+namespace Ling\Linker;
 
 /*
  * LingTalfi 2016-03-24
  */
-use Linker\Parser\LinkerParser;
+use Ling\Linker\Parser\LinkerParser;
 
 class LinkerTool
 {

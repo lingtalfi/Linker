@@ -1,6 +1,6 @@
 <?php
 
-namespace Linker\Parser;
+namespace Ling\Linker\Parser;
 
 /*
  * LingTalfi 2016-03-24

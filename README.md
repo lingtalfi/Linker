@@ -15,7 +15,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import Linker
+uni import Ling/Linker
 ```
 
 
@@ -73,7 +73,7 @@ Create a script with the following content and run it, this will create the link
 <?php
 
 
-use Linker\LinkerTool;
+use Ling\Linker\LinkerTool;
 
 require_once "bigbang.php"; // start the local universe
 
